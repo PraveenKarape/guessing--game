@@ -9,7 +9,7 @@ Randomly generated number for players to guess
 Range selection for adjusting the difficulty
 Clear and user-friendly interface
 
-#Usage
+# Usage
 Clone the repository to your local machine.
 Open the index.html file in a web browser.
 Input your guess within the specified range and click the "Submit" button.
@@ -20,7 +20,9 @@ For instance, if the randomly generated number is 42:
 
 You guess 30.
 You receive feedback that your guess is too low.
+
 You guess 50.
 You receive feedback that your guess is too high.
+
 You guess 42.
 You receive feedback that your guess is correct!
